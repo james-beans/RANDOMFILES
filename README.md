@@ -7,9 +7,12 @@ A repository with random files in it.
 > [!WARNING]
 > Code could have errors in that I might fix in a different day/week.
 
+## License:
+[Here](/LICENSE).
+
 ## Required:
 - There must be a README.md in all folders inside the [days directory](/days/).
-  - For an example of a README.md inside a [date folder](/days/) look at []()
+  - For an example of a README.md inside a [date folder](/days/) look at the [DATEREADME.md file](/DATEREADME.md)
 
 ## Files:
 All files are in the [days folder](/days/).
