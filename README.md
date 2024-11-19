@@ -13,6 +13,7 @@ A repository with random files in it.
 ## Required:
 - There must be a README.md in all folders inside the [days directory](/days/).
   - For an example of a README.md inside a [date folder](/days/) look at the [DATEREADME.md file](/DATEREADME.md).
+- All [date folders](/days/) must be named the days date in the [British Date Format](https://en.wikipedia.org/wiki/Date_and_time_notation_in_the_United_Kingdom).
 
 ## Files:
 All files are in the [days folder](/days/).
